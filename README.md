@@ -39,4 +39,4 @@ ______________________________________________________________
 ## 🚀 Come provarlo (Quick Start)
 
 L'applicazione è live su Streamlit Cloud!
-👉 **[INSERISCI QUI IL LINK ALLA TUA APP STREAMLIT]**
+👉 **[https://hachathoncosmicoanti-portfolio-sbpj7qrwqns3nmuoudzbq9.streamlit.app/]**
